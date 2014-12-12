@@ -1,6 +1,8 @@
 USE finallogin;
 
+insert into `user`(`USERNAME`,`PASSWORD`) values ('bbb','123');
 insert into `user`(`USERNAME`,`PASSWORD`) values ('lituo','lituo');
+insert into `user`(`USERNAME`,`PASSWORD`) values ('Zach','123');
 insert into `user`(`USERNAME`,`PASSWORD`) values ('zhu','wei');
 insert into `user`(`USERNAME`,`PASSWORD`) values ('zhu1','wei1');
 insert into `user`(`USERNAME`,`PASSWORD`) values ('zhu2','wei2');
